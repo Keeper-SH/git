@@ -17,3 +17,6 @@ $RECYCLE.BIN/
 *.tmp
 *.temp
 *.log
+
+# 个人笔记
+启用方式.txt
