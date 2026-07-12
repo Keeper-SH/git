@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo \"# git\")",
+      "Bash(echo \"## 项目说明\")",
+      "Bash(echo \"\")",
+      "Bash(echo \"这是一个测试仓库。\")"
+    ]
+  }
+}
