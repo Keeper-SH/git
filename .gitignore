@@ -20,3 +20,13 @@ $RECYCLE.BIN/
 
 # 个人笔记
 启用方式.txt
+
+# 图片文件
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.svg
+*.ico

@@ -1,0 +1,69 @@
+[33mcommit f85fdddc87f1da78aaf83625249b5d52fd8a0aff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: aa9e78b 99f80c2
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Sun Jul 19 16:32:00 2026 +0800
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       fruit.txt
+
+[33mcommit aa9e78bdcae26c5166564d1790d2a7d388d81a7e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Fri Jul 17 17:39:44 2026 +0800
+
+    羊角蜜改为菠萝
+
+[33mcommit 99f80c29a6dc0cae179291284d745e4841831a3d[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Wed Jul 15 16:28:18 2026 +0800
+
+    新增西瓜
+
+[33mcommit 7b211417eda8faf5a3fcb28b2d9e81dd4b44c4a1[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Wed Jul 15 16:16:44 2026 +0800
+
+    新增羊角蜜
+
+[33mcommit d99f8421c7df810f6bd1985e2ab2cdefd1abf985[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Wed Jul 15 16:06:15 2026 +0800
+
+    苹果改为葡萄
+
+[33mcommit 2dcebf2b0ea6a07ff433b5c87395d01cb844e734[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Wed Jul 15 16:05:18 2026 +0800
+
+    新增菠萝
+
+[33mcommit 54d0269b4741104531264a2702b60bc29ad616cd[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Wed Jul 15 15:42:13 2026 +0800
+
+    新增橘子榴莲苹果
+
+[33mcommit 047dcba4d924a95bbf10701c291b25ac5e8af968[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Wed Jul 15 15:11:40 2026 +0800
+
+    新增香蕉
+
+[33mcommit 73a8ba0531aeab0044d3d13bb62259cf72196937[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Sun Jul 12 15:39:43 2026 +0800
+
+    排除个人笔记文件
+
+[33mcommit cc60e5148bb7aa03f27383be3bef06042851d05b[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Sun Jul 12 15:39:10 2026 +0800
+
+    初始化项目结构：添加 .gitignore，排除本地配置文件
+
+[33mcommit 3df221ee4e61174bead8da18dd9ad23fe3455119[m
+Author: Keeper-SH <keeper-sh@github.com>
+Date:   Sun Jul 12 15:33:39 2026 +0800
+
+    Initial commit
